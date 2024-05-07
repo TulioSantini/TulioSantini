@@ -1,6 +1,6 @@
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Developer passionate about solving complex problems through technology. I am always studying and seeking to develop my hard and soft skills!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=TulioSantini&theme=radical&mode=weekly" />
@@ -34,6 +34,7 @@
 #### Studying in this moment:
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 #### Databases:
 
